@@ -5,3 +5,5 @@
 - git 
 
 **Jedno zdanie pogrubione**
+
+skibidi
